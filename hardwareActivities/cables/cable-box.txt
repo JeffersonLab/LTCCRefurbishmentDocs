@@ -1,0 +1,11 @@
+All cables must conform to the National Electrical Code (NEC) fire
+rating code requirement CL2 or the equivalent.
+
+***************************************************************************
+
+1) RG-58C/U 50 Ohm 
+	7 spools, 500 feet each spool.
+	If the 500 feet spool is not available, choose next size up.
+
+
+
